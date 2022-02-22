@@ -36,7 +36,7 @@ A Discord Bot Website Template Fully Dynamic and Live Server and User Count in E
 
 # Credits
 
-! Ｔｒｅｎｃｈ !#9610 - [Luxury | Development](https://discord.gg/8qSH9wvJJk)
+! Ｔｒｅｎｃｈ !#9610, NotIce3Fire#4465 - [Luxury | Development](https://discord.gg/8qSH9wvJJk)
 
 # Errors? 
 
