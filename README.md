@@ -1,6 +1,9 @@
 # Bot-Website-Template-EJS
 A Discord Bot Website Template Fully Dynamic and Live Server and User Count in EJS
 
+# Hosting
+Replit: [![Run on Repl.it](https://repl.it/badge/github/Luxury-Development/Bot-Website-Template-EJS)](https://repl.it/github/Luxury-Development/Bot-Website-Template-EJS)
+
 ### Contents 
 - [How to Start it?](https://github.com/Luxury-Development/bot-website#how-to-start-it) 
 - [Preview](https://github.com/Luxury-Development/bot-website#preview) <br>
